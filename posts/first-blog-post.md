@@ -10,6 +10,6 @@ During the lesson, I was introduced to Adobe Illustrator for the first time. The
 ![Alt text](Png/BSSA.png)
 
 # Brainstorming for Assignment 2
-Platform: 
-Context:  
-Audience: 
+<p>Platform: VR<br />
+<p>Context: World Generated UI<br />  
+Audience: A calm place to escape from reality

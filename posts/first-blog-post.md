@@ -12,4 +12,4 @@ During the lesson, I was introduced to Adobe Illustrator for the first time. The
 # Brainstorming for Assignment 2
 Platform: VR<br />
 Context: World Generated UI<br />  
-Audience: A calm place to escape from reality
+Audience: A calm place to escape from reality<br />

@@ -13,3 +13,4 @@ During the lesson, I was introduced to Adobe Illustrator for the first time. The
 Platform: VR<br />
 Context: World Generated UI<br />  
 Audience: A calm place to escape from reality<br />
+![Alt text](Png/IconIdeas.png)
